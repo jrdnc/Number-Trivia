@@ -24,7 +24,7 @@ div {
 }
 
 .btn {
-	grid-row-start: 4;
+	grid-row-start: 5;
 	grid-column-start: 4;
 	grid-column: span 6;
 }
